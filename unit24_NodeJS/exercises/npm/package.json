@@ -1,0 +1,20 @@
+{
+  "name": "learn_npm",
+  "version": "1.0.0",
+  "description": "creating a folder for npm packages",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisYoder/backend/tree/master/unit24_NodeJS"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "chrisYoder",
+  "license": "UNLICENSED"
+}

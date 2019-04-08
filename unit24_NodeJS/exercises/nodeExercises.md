@@ -12,3 +12,6 @@ Add the two files from above to the program and run it using node. This is a tes
 
 
 ## Average Exercise
+
+
+Write a function that takes an array of test scores as an input. The function should return the average score in the array, rounded to the nearest whole number.
